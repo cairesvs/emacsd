@@ -7,7 +7,6 @@
 (global-auto-revert-mode t)
 (golden-ratio-enable) ; habilitando golden ratio
 
-(setq ac-ignore-case nil)
 (mouse-avoidance-mode 'jump)             
 (delete-selection-mode 1)                
 (setq search-highlight t                 ;; highlight when searching... 
